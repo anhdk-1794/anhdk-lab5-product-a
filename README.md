@@ -24,7 +24,7 @@
 | GitHub Project | https://github.com/users/anhdk-1794/projects/1 |
 | Báo cáo HTML của skill chấm SWP | [`reports/sun-estimate-lab5-product-a.html`](reports/sun-estimate-lab5-product-a.html) |
 
-**Mở thử bằng cửa sổ ẩn danh:** *chưa thực hiện.* Repo đã public; Project vẫn ở chế độ riêng tư cho tới khi người phụ trách dự án xác nhận chuyển public. Dòng này sẽ được cập nhật sau khi mở thử.
+**Mở thử khi không đăng nhập:** đã thực hiện ngày 2026-11-09. Repo, README, một issue và trang Project đều mở được (HTTP 200) khi không gửi thông tin đăng nhập. Đây là kiểm bằng yêu cầu web không đăng nhập, không phải cửa sổ ẩn danh của trình duyệt. Cả repo và Project đều ở chế độ public.
 
 ---
 
