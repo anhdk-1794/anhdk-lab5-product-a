@@ -47,7 +47,7 @@ Giờ còn lại là giờ ước tính còn phải làm tại thời điểm b�
 
 Đã làm: 5 issue xong hoàn toàn (56,5 giờ); tính cả phần dở của các issue đang làm thì đã làm 120,0 giờ trên 154,5 giờ.
 
-Ngày và giờ đã làm của từng issue (mô phỏng) cũng nằm trên Project, ở ba trường "Ngày bắt đầu (mô phỏng)", "Ngày kết thúc (mô phỏng)" và "Giờ đã làm (mô phỏng)". Ngày kết thúc chỉ điền cho issue đã xong.
+Ngày và giờ đã làm của từng issue (mô phỏng) cũng nằm trên Project, ở ba trường "Ngày bắt đầu - Actual (mô phỏng)", "Ngày kết thúc - Actual (mô phỏng)" và "Giờ đã làm (mô phỏng)". Ngày kết thúc chỉ điền cho issue đã xong.
 
 | Issue | Bắt đầu | Kết thúc | Giờ đã làm |
 |---|---|---|---|
@@ -63,6 +63,8 @@ Ngày và giờ đã làm của từng issue (mô phỏng) cũng nằm trên Pro
 | **Cộng** | | | **120,0** |
 
 Giờ đã làm của mỗi issue bằng giờ ước tính trừ giờ còn lại ở bảng trên. Ngày được xếp theo công suất 6 giờ mỗi người mỗi ngày, khớp với bảng burndown.
+
+**Ngày kế hoạch (Plan).** Mọi issue và epic có hai trường "Ngày bắt đầu - Plan" và "Ngày kết thúc - Plan" (118 mục; hai lỗi mô phỏng #119, #120 là việc phát sinh nên không có ngày kế hoạch). Cách xếp: 3 người, 6 giờ mỗi người mỗi ngày, chỉ tính thứ Hai đến thứ Sáu, không tính ngày lễ. Mỗi issue chỉ bắt đầu sau khi mọi issue nó phụ thuộc đã kết thúc (kiểm lại: 0 vi phạm). Issue của Sprint 1 giữ ngày đã nêu ở trên, việc chưa xong có ngày kết thúc kế hoạch là 22/10. Epic và issue cha lấy ngày sớm nhất và muộn nhất của các issue con. Theo cách xếp này việc cuối cùng kết thúc ngày 28/04/2027. Con số này chưa gồm dự phòng sửa lỗi 20% và ngày lễ, nên thực tế sẽ muộn hơn.
 
 ---
 
