@@ -47,6 +47,23 @@ Giờ còn lại là giờ ước tính còn phải làm tại thời điểm b�
 
 Đã làm: 5 issue xong hoàn toàn (56,5 giờ); tính cả phần dở của các issue đang làm thì đã làm 120,0 giờ trên 154,5 giờ.
 
+Ngày và giờ đã làm của từng issue (mô phỏng) cũng nằm trên Project, ở ba trường "Ngày bắt đầu (mô phỏng)", "Ngày kết thúc (mô phỏng)" và "Giờ đã làm (mô phỏng)". Ngày kết thúc chỉ điền cho issue đã xong.
+
+| Issue | Bắt đầu | Kết thúc | Giờ đã làm |
+|---|---|---|---|
+| #2 | 09/10 | 15/10 | 27,5 |
+| #20 | 15/10 | 16/10 | 5,5 |
+| #11 | 19/10 | | 9,5 |
+| #69 | 09/10 | 12/10 | 6,5 |
+| #68 | 16/10 | | 17,0 |
+| #63 | 09/10 | 12/10 | 11,5 |
+| #59 | 12/10 | | 36,0 |
+| #119 | 16/10 | 19/10 | 5,5 |
+| #120 | 20/10 | | 1,0 |
+| **Cộng** | | | **120,0** |
+
+Giờ đã làm của mỗi issue bằng giờ ước tính trừ giờ còn lại ở bảng trên. Ngày được xếp theo công suất 6 giờ mỗi người mỗi ngày, khớp với bảng burndown.
+
 ---
 
 ## 3. Burndown (mô phỏng)

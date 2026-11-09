@@ -12,7 +12,7 @@
 - **`PREMISE.md` có thay đổi.** Có 6 đề xuất sửa spec (S-01 đến S-06), 27 giả định bổ sung (G-01 đến G-27) và 17 hướng đã chốt (H-01 đến H-17). Spec Lab 4 chưa được sửa: mọi thay đổi chờ người phụ trách dự án xác nhận.
 - **9 epic**, **109 issue** dưới epic (gồm 1 issue cha có 5 sub-issue), cộng 2 issue lỗi mô phỏng thêm trong sprint: Project có **120 mục** tổng cộng. Epic E-06 (tiền thưởng thanh toán đúng hạn, 完納奨励金) tách riêng thành 19 issue (gồm 1 issue cha có 5 sub-issue).
 - **Estimate:** 108 issue có điểm, **497 SWP, 2.496,0 giờ**, cộng dự phòng sửa lỗi 20% (254,3 giờ) = **2.750,3 giờ** (xem `estimate.md`). Hai lỗi mô phỏng nằm ngoài estimate (3 SWP, 16,5 giờ).
-- **Sprint giả lập đã chạy:** "Sprint 1 (mô phỏng)", 09/10/2026 đến 22/10/2026, báo cáo tại ngày làm việc thứ 8. Mọi trạng thái, người phụ trách và burndown trong sprint là **mô phỏng**, không có ai làm việc thật.
+- **Sprint giả lập đã chạy:** "Sprint 1 (mô phỏng)", 09/10/2026 đến 22/10/2026, báo cáo tại ngày làm việc thứ 8. Mọi trạng thái, người phụ trách, ngày bắt đầu, ngày kết thúc, giờ đã làm và burndown trong sprint là **mô phỏng**, không có ai làm việc thật.
 
 ---
 
